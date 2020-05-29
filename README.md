@@ -1,6 +1,6 @@
 # 💊 PharmaTech'
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![Contributeurs](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![Contributeurs](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributeurs-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## ⚙️ Installation
